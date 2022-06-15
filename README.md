@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Praveen 
-- 👀 I’m interested in ... Backend developer SQL 
-- 🌱 I’m currently learning ...Python SQL and I can learn any Programming Language Quickly
+- 👀 I’m interested in ... Backend developer.
+- 🌱 I’m currently learning ...Python c++ SQL and I can learn any Programming Language Quickly
 - 💞️ I’m looking to collaborate on ...Backend Engineer 
 - 📫 How to reach me ...
 https://www.linkedin.com/in/praveen-acharya-226a22125/
