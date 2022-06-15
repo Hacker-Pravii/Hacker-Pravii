@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Praveen 
-- 👀 I’m interested in ...System Design Backend Engineer SQL 
+- 👀 I’m interested in ... Backend developer SQL 
 - 🌱 I’m currently learning ...Python SQL and I can learn any Programming Language Quickly
 - 💞️ I’m looking to collaborate on ...Backend Engineer 
 - 📫 How to reach me ...
